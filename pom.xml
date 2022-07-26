@@ -10,7 +10,7 @@
     </parent>
     <groupId>com.limyel.haoyuan</groupId>
     <artifactId>haoyuan</artifactId>
-    <version>0.0.1-SNAPSHOT</version>
+    <version>0.1.0</version>
     <name>haoyuan-spring-boot</name>
     <description>haoyuan-spring-boot</description>
     <properties>
